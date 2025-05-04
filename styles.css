@@ -49,13 +49,13 @@ body {
   gap: 1rem;
   margin-bottom: 1.5rem;
 }
-.social-links a img {
+.social-links a i {
   width: 36px;
   height: 36px;
   filter: grayscale(100%);
   transition: filter 0.2s;
 }
-.social-links a:hover img {
+.social-links a:hover i {
   filter: none;
 }
 
