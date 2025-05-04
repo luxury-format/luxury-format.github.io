@@ -1,1 +1,1 @@
-# luxury-format.github.io
+# https://luxury-format.github.io
